@@ -2,3 +2,8 @@ manage.py
 .idea
 settings2.py
 settings.py
+Test.patch
+contacts/__pycache__/
+contacts/migrations/__pycache__/
+contacts/pty/
+untitled/__pycache__/
