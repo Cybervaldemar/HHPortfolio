@@ -1,6 +1,5 @@
 manage.py
 .idea
-settings2.py
 settings.py
 Test.patch
 contacts/__pycache__/
