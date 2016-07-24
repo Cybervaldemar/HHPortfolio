@@ -21,8 +21,7 @@ class ListContactView(ListView):
 
 
 class ListStudentsView(ListView):
-    #parse_pty()
-    model = StudentOne
+    model = Student
     template_name = 'students_list.html'
 
 
